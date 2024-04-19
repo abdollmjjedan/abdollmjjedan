@@ -1,0 +1,24 @@
+- 👋 Hi, I’m @abdollmjjedan
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+abdollmjjedan/abdollmjjedan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<amp-consent layout="nodisplay" id="consent-element">
+<script type="application/json">
+{ "consents":
+   { "my-consent":
+      {
+         "checkConsentHref": "https://publisher.com/api/check-consent", "promptUI": "consent-ui"
+      }
+   }
+}
+</script>
+</amp-consent>
+<amp-ad data-block-on-consent width=320 height=50 type="doubleclick" data-slot="/4119129/mobile_ad_banner" json='{"targeting":{"sport":["rugby","cricket"]}, "categoryExclusions":["health"]}'></amp-ad>
